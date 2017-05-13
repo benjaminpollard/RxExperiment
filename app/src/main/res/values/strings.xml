@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">rxtest</string>
+    <string name="title_activity_normal_on_click">NormalOnClick</string>
+</resources>
